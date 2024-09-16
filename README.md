@@ -20,7 +20,7 @@
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📫 How to reach me
-- LinkedIn: [Yuhui Li]([https://www.linkedin.com/in/johndoe/](https://www.linkedin.com/in/yuhuili2026/))
+- LinkedIn: [Yuhui Li](https://www.linkedin.com/in/johndoe/](https://www.linkedin.com/in/yuhuili2026/)
 - Email: [yli2498@wisc.edu](yli2498@wisc.edu)
 - Phone: 949-617-8071
 
