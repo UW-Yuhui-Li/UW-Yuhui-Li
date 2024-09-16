@@ -12,6 +12,9 @@ I love hiking and exploring new places!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
+<div align="right">
+  <img src="meme.jpg" alt="Meme pic" width="400" />
+</div>
 
 ### 📫 How to reach me
 - LinkedIn: [Yuhui Li](https://www.linkedin.com/in/yuhuili2026/)
@@ -32,9 +35,6 @@ I love hiking and exploring new places!
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UW-Yuhui-Li&theme=radical)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=UW-Yuhui-Li&show_icons=true&theme=radical)
 
-<div align="left">
-  <img src="meme.jpg" alt="Meme pic" width="200" />
-</div>
 
 <div align="left">
   <a href="https://open.spotify.com/user/31jvd4thnxbscp6ufhkvmc6f3biy">
