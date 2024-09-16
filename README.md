@@ -2,7 +2,7 @@
 # 👋 Hi there, I'm Yuhui Li!
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhuili&show_icons=true&theme=radical)
 
 
 - ⚡ Fun fact: I love hiking and exploring new places!
