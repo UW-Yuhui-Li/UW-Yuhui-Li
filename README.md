@@ -11,10 +11,11 @@ I love hiking and exploring new places!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
-<div align="right">
+  <div align="right">
   <img src="meme.jpg" alt="Meme pic" width="400" />
 </div>
+</div>
+
 
 ### 📫 How to reach me
 - LinkedIn: [Yuhui Li](https://www.linkedin.com/in/yuhuili2026/)
