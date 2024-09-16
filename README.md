@@ -22,7 +22,7 @@
 ### 📫 How to reach me
 - LinkedIn: [Yuhui Li]([https://www.linkedin.com/in/johndoe/](https://www.linkedin.com/in/yuhuili2026/))
 - Email: [yli2498@wisc.edu](yli2498@wisc.edu)
-- Phone: [949-617-8071]
+- Phone: 949-617-8071
 
 ![GitHub followers](https://img.shields.io/github/followers/johndoe?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/johndoe?style=social)
 
