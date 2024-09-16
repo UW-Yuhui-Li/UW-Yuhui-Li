@@ -41,4 +41,4 @@ I love hiking and exploring new places!
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jvd4thnxbscp6ufhkvmc6f3biy&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UW-Yuhui-Li&theme=github&hide_border=true)
+
