@@ -1,7 +1,7 @@
 ###
 # 👋 Hi there, I'm Yuhui Li!
 
-
+- Third Year Computer Science Student At University of Wisconsin - Madison
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=UW-Yuhui-Li&show_icons=true&theme=radical)
 
 
