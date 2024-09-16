@@ -4,7 +4,6 @@
 
 I love hiking and exploring new places!
 
-![Profile Image](meme.jpg)
 ### Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -33,7 +32,9 @@ I love hiking and exploring new places!
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UW-Yuhui-Li&theme=radical)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=UW-Yuhui-Li&show_icons=true&theme=radical)
 
-
+<div align="left">
+  <img src="meme.jpg" alt="Meme pic" width="200" />
+</div>
 
 <div align="left">
   <a href="https://open.spotify.com/user/31jvd4thnxbscp6ufhkvmc6f3biy">
