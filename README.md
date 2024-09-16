@@ -17,7 +17,8 @@
 ### 📫 How to reach me
 - LinkedIn: [Yuhui Li](https://www.linkedin.com/in/yuhuili2026/)
 - Email: [yli2498@wisc.edu](mailto:johndoe@example.com)
-
+###
+![GitHub Contribution Graph](https://ghchart.rshah.org/UW-Yuhui-Li)
 <div align="left">
   <a href="https://www.instagram.com/_yuhuili_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -40,5 +41,3 @@
   </a>
 </div>
 
-###
-![GitHub Contribution Graph](https://ghchart.rshah.org/UW-Yuhui-Li)
