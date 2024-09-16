@@ -32,6 +32,7 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/UW-Yuhui-Li)
 ###
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UW-Yuhui-Li&theme=highcontrast)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=UW-Yuhui-Li&show_icons=true&theme=radical)
 
 
 
