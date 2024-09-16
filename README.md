@@ -20,7 +20,6 @@
 ### 📫 How to reach me
 - LinkedIn: [Yuhui Li](https://www.linkedin.com/in/yuhuili2026/)
 - Email: [yli2498@wisc.edu](mailto:johndoe@example.com)
-- ###
 
 <div align="left">
   <a href="https://www.instagram.com/_yuhuili_/" target="_blank">
