@@ -27,13 +27,7 @@
 ### 📫 How to reach me
 - LinkedIn: [Yuhui Li](https://www.linkedin.com/in/yuhuili2026/)
 - Email: [yli2498@wisc.edu](mailto:johndoe@example.com)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johndoe&theme=radical)
-
-
-
-
-###
+- ###
 
 <div align="left">
   <a href="https://www.instagram.com/_yuhuili_/" target="_blank">
@@ -47,7 +41,11 @@
 
 ###
 
-<div align="center">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johndoe&theme=radical)
+
+
+
+<div align="left">
   <a href="https://open.spotify.com/user/31jvd4thnxbscp6ufhkvmc6f3biy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jvd4thnxbscp6ufhkvmc6f3biy&count=3&unique=false" alt="Spotify recently played"  />
   </a>
