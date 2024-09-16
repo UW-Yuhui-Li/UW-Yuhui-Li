@@ -23,7 +23,7 @@
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📫 How to reach me
-- LinkedIn: [Yuhui Li](https://www.linkedin.com/in/johndoe/)
+- LinkedIn: [Yuhui Li]((https://www.linkedin.com/in/yuhuili2026/))
 - Twitter: [@johndoe](https://twitter.com/johndoe)
 - Email: [johndoe@example.com](mailto:johndoe@example.com)
 
