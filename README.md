@@ -39,8 +39,7 @@ I love hiking and exploring new places!
   <a href="https://open.spotify.com/user/31jvd4thnxbscp6ufhkvmc6f3biy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jvd4thnxbscp6ufhkvmc6f3biy&count=3&unique=false" alt="Spotify recently played"  />
   </a>
-  <div align="right">
-  <img src="meme.jpg" alt="Meme pic" width="400" />
+  <img src="meme.jpg" alt="Meme pic" width="300" />
 </div>
 </div>
 
