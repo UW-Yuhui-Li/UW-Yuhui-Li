@@ -24,8 +24,7 @@
 
 ### 📫 How to reach me
 - LinkedIn: [Yuhui Li]((https://www.linkedin.com/in/yuhuili2026/))
-- Twitter: [@johndoe](https://twitter.com/johndoe)
-- Email: [johndoe@example.com](mailto:johndoe@example.com)
+- Email: [yli2498@wisc.edu](mailto:johndoe@example.com)
 
 ![GitHub followers](https://img.shields.io/github/followers/johndoe?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/johndoe?style=social)
 
