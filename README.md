@@ -3,7 +3,7 @@
 ## 🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning: `GraphQL`
+- 🌱 I’m currently learning: `Java`
 - 👯 I’m looking to collaborate on: `Open Source Projects`
 - 🤔 I’m looking for help with: `Advanced CSS techniques`
 - 💬 Ask me about: `JavaScript, React, Docker`
@@ -22,10 +22,12 @@
 ### 📫 How to reach me
 - LinkedIn: [Yuhui Li]([https://www.linkedin.com/in/johndoe/](https://www.linkedin.com/in/yuhuili2026/))
 - Email: [yli2498@wisc.edu](yli2498@wisc.edu)
+- Phone: [949-617-8071]
 
 ![GitHub followers](https://img.shields.io/github/followers/johndoe?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/johndoe?style=social)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johndoe&theme=radical)
