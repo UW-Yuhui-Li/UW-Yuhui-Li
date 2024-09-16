@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Yuhui Li!
 
-## 🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer
+## 🚀 Third Year Computer science Student at University of Wisconsin - Madison
 
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning: `Java`
 - 👯 I’m looking to collaborate on: `Open Source Projects`
 - 🤔 I’m looking for help with: `Advanced CSS techniques`
-- 💬 Ask me about: `JavaScript, React, Docker`
+- 💬 Ask me about: `C++, Python, Java`
 - ⚡ Fun fact: I love hiking and exploring new places!
 
 ### 🔥 Featured Projects
