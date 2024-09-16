@@ -1,5 +1,5 @@
 ###
-# 👋 Hi there, I'm Yuhui Li!😁
+# 👋 Hi there, I'm Yuhui Li! 😁
 #### Third Year Computer Science Student At University of Wisconsin - Madison
 
 
