@@ -1,9 +1,6 @@
-<h2 align="left">Hi 👋! I'm Yuhui, Third year computer science student from University of Wisconsin - Madison</h2>
-
 ###
-# 👋 Hi there, I'm John Doe!
+# 👋 Hi there, I'm Yuhui Li!
 
-## 🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
 
