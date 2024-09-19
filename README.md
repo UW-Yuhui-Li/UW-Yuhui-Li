@@ -17,6 +17,7 @@
 ### 📫 How to reach me
 - LinkedIn: [Yuhui Li](https://www.linkedin.com/in/yuhuili2026/)
 - Email: [yli2498@wisc.edu](mailto:johndoe@example.com)
+- LeetCode: [uw-yuhui-li](https://leetcode.com/u/uw-yuhui-li/)
 
 <div align="left">
   <a href="https://www.instagram.com/_yuhuili_/" target="_blank">
