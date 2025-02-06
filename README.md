@@ -1,6 +1,6 @@
 ###
 # 👋 Hi there, I'm Yuhui Li! 😁
-#### Third Year Computer Science Student At University of Wisconsin - Madison
+#### First Year Computer Science Student At University of Wisconsin - Madison
 
 
 ### 🌊Languages
